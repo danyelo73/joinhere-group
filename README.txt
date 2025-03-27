@@ -38,6 +38,38 @@ Please don’t lock it behind walled gardens.
 A project by celebcare.media · powered by web3.li  
 Made with 🍕 by Danyelo Dolce
 
+🔧 Customize JoinHere
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+JoinHere is an offline, remixable starter pack.
+Feel free to adapt it — but please don’t pretend you invented it.
+
+You may change:
+
+The logo (just replace the image file, keep the name)
+The first group (in register.html)
+The default friend (also in register.html)
+The email rotation (in index.html)
+The random page list (in index.html)
+The site title and footer (in index.html, register.html, and the 6 form pages)
+You don’t need to update every single profile manually —
+just edit the main templates above, then use the register form to generate new versions.
+
+You don’t need permission —
+but if you believe in the vision, we’d love for you to build with us, not next to us.
+📧 hello@joinhere.group
+
+✅ Do:
+Remix and adapt freely
+Credit the origin in a way that feels right to you:
+→ joinhere.group (the platform)
+→ or Danyelo Dolce (the creator)
+Help others build a better internet
+🚫 Don’t:
+Sell it without adding value
+Remove all references and claim it’s yours
+
+
 CHANGELOG – JoinHere Starter Pack  
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
