@@ -60,7 +60,7 @@ v1.0 – 2025-03-25
 ---
 
 v1.1 – 2025-03-26  
-• Updated ZIP (85 HTML pages, ~11MB)  
+• Updated ZIP (85 HTML pages, ~6.5MB)  
 • All external links replaced with local paths  
 • Footer, logo & emoji system made fully offline  
 • 404 image compressed from 11MB to 1MB 🤪 
