@@ -73,12 +73,6 @@ Remove all references and claim it’s yours
 CHANGELOG – JoinHere Starter Pack  
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
-v1.0 – 2025-03-25  
-• First ZIP release (74 HTML pages, ~21MB)  
-• Fully offline-capable social network system  
-• Includes core pages: Profile, Emoji, Post, Friends, Upload, Download  
-• Footer and logo were still linked online
-
 📊 Internal File History (pre 1.0):  
 • register.html – 47 versions  
 • index.html – 11 versions  
@@ -91,6 +85,14 @@ v1.0 – 2025-03-25
 
 ---
 
+v1.0 – 2025-03-25  
+• First ZIP release (74 HTML pages, ~21MB)  
+• Fully offline-capable social network system  
+• Includes core pages: Profile, Emoji, Post, Friends, Upload, Download  
+• Footer and logo were still linked online
+
+---
+
 v1.1 – 2025-03-26  
 • Updated ZIP (85 HTML pages, ~6.5MB)  
 • All external links replaced with local paths  
@@ -100,3 +102,17 @@ v1.1 – 2025-03-26
 • ReadMe and License polished  
 • Uploaded to GitHub, Pinata, and joinhere.group  
 • First USB sticks created – Offline launch begins!
+
+---
+
+v1.2 – 2025-03-28 
+• Full Polygon & OpenSea integration for JOIN Token & NFT display
+• Wallets, NFTs and JOIN balance included in profile via 🪙 alert
+• register.html completely rebuilt: API, placeholders, exclusive checkboxes
+• Custom error handling for token + NFT
+• Better mobile styling + autofill protection
+• Checkbox warnings and new jokes 😎
+• Improved 1-click download & send (works offline)
+• Profile page now marks the last update date
+• Texts, labels, emojis and warnings fine-tuned
+
