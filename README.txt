@@ -69,6 +69,13 @@ Help others build a better internet
 Sell it without adding value
 Remove all references and claim it’s yours
 
+📷 Image Credits  
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+All images used in this project are licensed via Pexels.com.  
+We thank the amazing creators on Pexels for making their work freely available.
+
+
 
 CHANGELOG – JoinHere Starter Pack  
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
