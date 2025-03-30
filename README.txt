@@ -34,9 +34,26 @@ You don’t need permission to exist.
 Please don’t sell this without adding value.  
 Please don’t lock it behind walled gardens.
 
-© 2025 · Created by joinhere.group · Version 1.1  
-A project by celebcare.media · powered by web3.li  
-Made with 🍕 by Danyelo Dolce
+© 2025 joinhere.group
+🏢 Created by joinhere.org 
+🎬 A project by celebcare.media 
+🔌 powered by web3.li  
+❤️ Made with love and 🍕 by danyelo.de
+
+🔗 Official JoinHere Domains
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+joinhere.group – Main
+joinhere.info – Mirror
+joinhere.org – Organisation
+joinhere.chat – Talk
+joinhere.news – News
+joinhere.email – Zip
+joinhere.church – Follow
+joinhere.eth – Web3
+
+⚠️ Any other domains using "joinhere" are not officially part of this project.
+
 
 🔧 Customize JoinHere
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
