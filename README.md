@@ -54,7 +54,8 @@ You’ll receive the latest ZIP via autoresponder. *(Check spam! It’s `.info`,
 - [joinhere.news](https://joinhere.news) – News  
 - [joinhere.email](https://joinhere.email) – Zip  
 - [joinhere.church](https://joinhere.church) – Follow  
-- [joinhere.eth](https://joinhere.eth) – Web3  
+- [joinhere.eth](https://joinhere.eth) – Web3 
+- [joinhere/](https://joinhere.hns.to) – HNS-TLD (impervious✝︎ burnt)
 
 ⚠️ Any other domains using "joinhere" are not officially part of this project.
 
@@ -91,7 +92,7 @@ No permission required — but if you believe in the vision, build **with us**, 
 
 ## 📷 Image Credits
 
-All images used in this project are licensed via [Pexels.com](https://www.pexels.com).  
+All images used in this project are licensed via [Pexels.com](https://www.pexels.com) & [Canva.com](https://www.canva.com).  
 We thank the amazing creators for making their work freely available.
 
 ---
