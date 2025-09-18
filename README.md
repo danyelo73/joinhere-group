@@ -50,10 +50,6 @@ You’ll receive the latest ZIP via autoresponder. *(Check spam! It’s `.info`,
 - [joinhere.group](https://joinhere.group) – Main  
 - [joinhere.info](https://joinhere.info) – Mirror  
 - [joinhere.org](https://joinhere.org) – Organisation  
-- [joinhere.chat](https://joinhere.chat) – Talk  
-- [joinhere.news](https://joinhere.news) – News  
-- [joinhere.email](https://joinhere.email) – Zip  
-- [joinhere.church](https://joinhere.church) – Follow  
 
 ⚠️ Any other domains using "joinhere" are not officially part of this project.
 
@@ -119,7 +115,15 @@ We thank the amazing creators for making their work freely available.
 - `log.html` now lists test builds + form versions  
 - Email & Domain profiles created  
 - Pexels image credit + license finalized  
-- GitHub README prepared with markdown and screenshots  
+- GitHub README prepared with markdown and screenshots
+
+### v1.4 – 2025-09-18
+- Kept only 3 official domains:
+  - joinhere.group (main)
+  - joinhere.info (mirror)
+  - joinhere.org (community)
+- Removed unofficial or expired TLDs
+- Clarified domain warnings and ReadMe
 
 ---
 
